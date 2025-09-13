@@ -1,15 +1,15 @@
 # 💫 About Me:
-🌱 Dog-trainer-turned-UX-designer  
-🎨 I blend **UX, design, and front-end development** to make ideas come alive  
+🐕 Dog-trainer-turned-UX-designer  
+✏️ I blend **UX, design, and front-end development** to make ideas come alive  
 💡 Guided by **meliorism**: the belief that design can make the world a little better every day  
 
 Years of working as a **dog trainer** and **team manager** taught me to observe closely, lead with empathy, and adapt quickly.  
 I now bring those skills into my design practice, crafting digital experiences that serve not just the person behind the screen,  
 but the communities and systems they’re part of.  
 
-📚 Currently finishing my [Bachelor in Digital Design & Development at Devine)](https://www.howest.be/en/digital-design-and-development)  
-📧 Email: [melisa.lauriola@example.com](mailto:melisa.lauriola@example.com)  
-🌐 Portfolio: [creationsmelioristes.be](https://creationsmelioristes.be)  
+📚 Currently finishing my [Bachelor in Digital Design & Development at Devine](https://www.howest.be/en/digital-design-and-development)  
+✉️ Email: [melisa.lauriola@example.com](mailto:creationsmelioristes@gmail.com)  
+🖥️ Portfolio: [creationsmelioristes.be](https://creationsmelioristes.be)  
 
 
 ## Socials:
